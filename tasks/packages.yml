@@ -1,6 +1,7 @@
 - name: Install packages
-   apt:
-     name: 
-       - htop
-       - mc
+  apt:
+    name: 
+      - ansible-lint
+      - htop
+      - gcc
       
