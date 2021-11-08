@@ -2,6 +2,7 @@
   apt:
     name: 
       - ansible-lint
+      - gparted
       - htop
       - gcc
-      
+      - 
